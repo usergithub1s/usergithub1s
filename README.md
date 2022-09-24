@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @usergithub1s
 - 👀 I’m interested in software development, particularly web development
-- 🌱 I’m currently learning ASP.NET Core
+- 🌱 I’m currently learning ASP.NET Core, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
